@@ -44,7 +44,7 @@ Compare the behaviors of customers who accepted coupons versus those who wont ac
 - **Key recommendation**: Promotions on **Sunny day** as the primary target group.
 - **Temperature impact**: Consider coupon strategies based on weather conditions, as customers are more likely to accept coupons during sunny weather.
 
-## Requirements
+## Pre requisite
 - Python 3.x
 - Pandas
 - Seaborn
@@ -55,7 +55,6 @@ Compare the behaviors of customers who accepted coupons versus those who wont ac
    ```bash
    git clone https://github.com/sowmya-sadhu/Amazon_Mechanical_Turk.git
 2. Install the necessary dependencies:
-   ```bash
-    pip install -r requirements.txt
+   ```install pre requisite
 3. Run the notebook:
 Open the `prompt.ipynb` file in Jupyter or any compatible environment.
