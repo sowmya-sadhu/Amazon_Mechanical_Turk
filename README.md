@@ -55,6 +55,7 @@ Compare the behaviors of customers who accepted coupons versus those who wont ac
    ```bash
    git clone https://github.com/sowmya-sadhu/Amazon_Mechanical_Turk.git
 2. Install the necessary dependencies:
-   ```install pre requisite
-3. Run the notebook:
+   ```bash
+   Install pre requisite
+4. Run the notebook:
 Open the `prompt.ipynb` file in Jupyter or any compatible environment.
